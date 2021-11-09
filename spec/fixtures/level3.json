@@ -1,0 +1,395 @@
+{
+  "status": "ok",
+  "taps": {
+    "1": {
+      "brewery": "Level",
+      "name": "Sweep the Leg",
+      "style": "Rice Lager",
+      "short_description": "Japanese Rice Lager with NZ hops add a subtle tropical, coconut, hop character",
+      "abv": "4.6",
+      "price": {
+        "500mL": 7,
+        "300mL": 4,
+        "5oz": 2.5,
+        "64oz Growler": 18
+      }
+    },
+    "2": {
+      "brewery": "Level",
+      "name": "Thrills for Pils",
+      "style": "German Pilsner",
+      "description": "Clean, simple malt flavor with an assertive and dry bitterness.",
+      "short_description": "Northern German Pilsner with a clean, simple malt flavor with an assertive bitterness and spicy, floral hop character.",
+      "abv": "5.2",
+      "color": "Straw",
+      "yeast": "Abacus",
+      "hops": "Tettnang, Perle",
+      "malts": "Pilsner, Carafoam",
+      "ibu": "41",
+      "price": {
+        "500mL": 7,
+        "300mL": 4,
+        "5oz": 2.5,
+        "64oz Growler": 18
+      }
+    },
+    "3": {
+      "brewery": "Level",
+      "name": "Let's Play!",
+      "style": "Dry Hopped Pilsner",
+      "description": "Light, dry, easy drinking with a mild hoppy aroma",
+      "short_description": "Light, dry, easy drinking with a mild hoppy aroma",
+      "abv": "5.0",
+      "price": {
+        "500mL": 7,
+        "300mL": 4,
+        "5oz": 2.5,
+        "64oz Growler": 18
+      }
+    },
+    "4": {
+      "brewery": "Level",
+      "name": "I'm Not a Hazy, I Just Crush a Lot",
+      "style": "IPA",
+      "description": "Classic hops give this beer wonderful citrus, floral, and pine hop flavors and aromas.",
+      "short_description": "All the awesome old school hops giving citrus, floral, and mild piney notes with a dry finish and mild bitterness",
+      "abv": "5.8",
+      "color": "Pale",
+      "price": {
+        "500mL": 7,
+        "300mL": 4,
+        "5oz": 2.5,
+        "64oz Growler": 18
+      }
+    },
+    "5": {
+      "brewery": "Level",
+      "name": "Pixelated Pale",
+      "style": "Pale Ale",
+      "short_description": "Punchy, tropical fruit up front with a modest bitterness and crisp malt finish",
+      "abv": "6.1",
+      "price": {
+        "500mL": 7,
+        "300mL": 4,
+        "5oz": 2.5,
+        "64oz Growler": 18
+      }
+    },
+    "6": {
+      "brewery": "Level",
+      "name": "Game On!",
+      "style": "IPA",
+      "short_description": "Mild maltiness, big juicy hop aroma, and lots of punchy hop flavor.",
+      "abv": "6.5",
+      "price": {
+        "500mL": 7,
+        "300mL": 4,
+        "5oz": 2.5,
+        "64oz Growler": 18
+      }
+    },
+    "7": {
+      "brewery": "Level",
+      "name": "Ro-Bust-A-Move",
+      "style": "Robust Porter",
+      "short_description": "Deep Roast, Toffee, Dark Fruit",
+      "abv": "6.0",
+      "appearance": "Dark Brown",
+      "price": {
+        "500mL": 7,
+        "300mL": 4,
+        "5oz": 2.5,
+        "64oz Growler": 18
+      }
+    },
+    "8": {
+      "brewery": "Level",
+      "name": "The Baddest Dude in the Room",
+      "style": "West Coast IPA",
+      "short_description": "Full bodied IPA with notes of pine and citrus",
+      "abv": "7.3",
+      "price": {
+        "500mL": 7,
+        "300mL": 4,
+        "5oz": 2.5,
+        "64oz Growler": 18
+      }
+    },
+    "9": {
+      "brewery": "Level",
+      "name": "Bump and Rind",
+      "style": "Hazy IPA",
+      "short_description": "Azacca, Galaxy, Idaho 7 and Sabro hops",
+      "abv": "6.4",
+      "price": {
+        "400mL": 7,
+        "200mL": 4,
+        "5oz": 2.5,
+        "64oz Growler": 22
+      }
+    },
+    "10": {
+      "brewery": "Level",
+      "name": "Other Rappers Diss Me",
+      "style": "Hazy IPA",
+      "short_description": "Tropical and juicy hop character in a well balanced Hazy IPA",
+      "abv": "7.3",
+      "price": {
+        "400mL": 7,
+        "200mL": 4,
+        "5oz": 2.5,
+        "64oz Growler": 22
+      }
+    },
+    "11": {
+      "brewery": "Level",
+      "name": "Rising Hope IPA",
+      "style": "Fruited IPA",
+      "short_description": "IPA with Passionfruit, Orange, and Guava puree - Benefiting the National Pediatric Cancer Foundation",
+      "abv": "6.5",
+      "yeast": "1056",
+      "hops": "Azacca, Ahtanum, Simcoe, Loral",
+      "malts": "Prue Idaho",
+      "price": {
+        "500mL": 7,
+        "300mL": 4,
+        "5oz": 2.5,
+        "64oz Growler": 18
+      }
+    },
+    "12": {
+      "brewery": "Level",
+      "name": "Brave Noise",
+      "style": "Hazy Pale Ale",
+      "short_description": "Citrus and tropical fruit notes. All proceeds from this beer will be donated to the Women's Foundation of Oregon",
+      "abv": "4.5",
+      "color": "Opaque",
+      "price": {
+        "500mL": 7,
+        "300mL": 4,
+        "5oz": 2.5,
+        "64oz Growler": 18
+      }
+    },
+    "13": {
+      "brewery": "Level",
+      "name": "Ready Player One",
+      "style": "Dry Hopped Saison",
+      "short_description": "Brewer’s lawnmower beer. Light, flavorful and crisp.",
+      "abv": "4.8",
+      "price": {
+        "500mL": 7,
+        "300mL": 4,
+        "5oz": 2.5,
+        "64oz Growler": 18
+      }
+    },
+    "14": {
+      "brewery": "Level",
+      "name": "Simply Citrus",
+      "style": "Dry Hopped Witbier",
+      "description": "This is not your normal Belgian Witbier (White Beer). This beer is a cross between two loves, Belgian Wheat Ale and American Hazy Pale Ale. Fermented warm with our farmhouse yeast, spiced, brewed and dry hopped with Loral, Strata, and Mandarina Bavaria. Only at 4.9% this crushable \"White Pale Ale\" is Off-dry, hazy, hop forward citrus bomb exploding with aromas of Sweet Orange, Lemon, Peach, and Toasted Coriander Spice.",
+      "short_description": "Sweet Orange, Toasted Coriander Spice, Lemon,  Peachy Dank",
+      "abv": "4.9",
+      "color": "Opaque",
+      "yeast": "Loki",
+      "appearance": "Golden Orange Opaque",
+      "hops": "Loral, Strata, Mandarina Bavaria",
+      "price": {
+        "500mL": 7,
+        "300mL": 4,
+        "5oz": 2.5,
+        "64oz Growler": 18
+      }
+    },
+    "15": {
+      "brewery": "Level",
+      "name": "I'd Like to Speak to the Manager",
+      "style": "Pumpkin Latte Ale",
+      "description": "A Beer for the Karens of the world, but we made it taste good for everyone! A delicious English Brown Ale base beer with lactose sugar, pumpkin, coffee, and reasonably spiced with pumpkin pie spices (vanilla, ginger, cinnamon, nutmeg, allspice, cloves). This seasonal ale is sure to please those looking for a tasty fall treat.",
+      "short_description": "Pumpkin Latte Ale with lactose, coffee, and pumpkin pie spices",
+      "abv": "5.5",
+      "yeast": "House Ale",
+      "appearance": "Coffee Brown with a tan head",
+      "hops": "English",
+      "malts": "Marris Otter base, crystal, brown, chocolate",
+      "ibu": "20",
+      "price": {
+        "500mL": 7,
+        "300mL": 4,
+        "5oz": 2.5,
+        "64oz Growler": 18
+      }
+    },
+    "16": {
+      "brewery": "Level",
+      "name": "Biscuits to a Bear",
+      "style": "ESB",
+      "description": "A malt-foreword English style pale ale designed to be your daily beer. Lovely biscuit, bread crust malt flavors and aromas, a little sweetness, mildly hopped with a well-balanced bitterness and mild herbal, floral hop character. This beer is lower in alcohol so you can have a couple, and you will want to because this beer is delicious!",
+      "short_description": "Lovely biscuit, bread crust malt flavors and aromas, a little sweetness, mildly hopped with a well-balanced bitterness and mild herbal, floral hop character",
+      "abv": "4.3",
+      "yeast": "House Ale",
+      "appearance": "Orange/ Copper color, clear, off-white head.",
+      "hops": "East Kent Goldings",
+      "malts": "Heritage Maris Otter, Amber Malt, Crystal",
+      "ibu": "25",
+      "price": {
+        "500mL": 7,
+        "300mL": 4,
+        "5oz": 2.5,
+        "64oz Growler": 18
+      }
+    },
+    "17": {
+      "brewery": "Level",
+      "name": "Galaxy SMASH",
+      "style": "IPA",
+      "description": "Big notes of passion fruit, peach, and citrus from 100% Galaxy hops.",
+      "short_description": "Big notes of passion fruit, peach, and citrus from 100% Galaxy hops.",
+      "abv": "6.0",
+      "color": "Golden",
+      "yeast": "Loki",
+      "hops": "Galaxy",
+      "malts": "Pilsner",
+      "ibu": "51",
+      "price": {
+        "500mL": 7,
+        "300mL": 4,
+        "5oz": 2.5,
+        "64oz Growler": 18
+      }
+    },
+    "18": {
+      "brewery": "Level",
+      "name": "2019 License to Yill",
+      "style": "Peated Scotch Ale",
+      "short_description": "Rye Barrel-aged peated scotch ale",
+      "abv": "10.5",
+      "price": {
+        "300mL": 7,
+        "150mL": 4,
+        "5oz": 3.5
+      }
+    },
+    "19": {
+      "brewery": "Level",
+      "name": "Funk Weapon",
+      "style": "Mix Cultured Saison",
+      "description": "Stainless fermented mixed culture saison dry hopped with Motueka and Nelson",
+      "short_description": "Delicate funk nose, straw/farmhouse body complimented by a pine/grass hop aroma and flavor",
+      "abv": "4.5",
+      "color": "Golden",
+      "yeast": "Mixed Culture/",
+      "hops": "Nelson, Motueka",
+      "malts": "Pilsner, Wheat",
+      "ibu": "29",
+      "price": {
+        "300mL": 7,
+        "150mL": 4,
+        "5oz": 3.5
+      }
+    },
+    "20": {
+      "brewery": "Level",
+      "name": "Gimli",
+      "style": "Dry Irish Stout",
+      "short_description": "Big roasty flavors with notes of chocolate that finishes dry on the palate",
+      "abv": "4.6",
+      "price": {
+        "500mL": 7,
+        "300mL": 4,
+        "5oz": 2.5,
+        "64oz Growler": 18
+      }
+    },
+    "21": {
+      "brewery": "Level",
+      "name": "Ro-Bust-A-Move",
+      "style": "Robust Porter",
+      "short_description": "Deep Roast, Toffee, Dark Fruit",
+      "abv": "6.0",
+      "appearance": "Dark Brown",
+      "price": {
+        "500mL": 7,
+        "300mL": 4,
+        "5oz": 2.5,
+        "64oz Growler": 18
+      }
+    },
+    "22": {
+      "brewery": "San Juan Hard Seltzer",
+      "name": "San Juan Seltzer - Huckleberry",
+      "style": "Hard Seltzer",
+      "short_description": "Hard Seltzer with Huckleberry",
+      "abv": "4.2",
+      "price": {
+        "400mL": 7,
+        "200mL": 4,
+        "5oz": 2.5,
+        "64oz Growler": 22
+      }
+    },
+    "23": {
+      "brewery": "Son of Man",
+      "name": "Sagardo",
+      "style": "Basque-Style Cider",
+      "short_description": "Basque-Style Wild Fermented Cider",
+      "abv": "6.0",
+      "color": "Straw",
+      "price": {
+        "300mL": 7,
+        "150mL": 4,
+        "5oz": 3.5
+      }
+    },
+    "24": {
+      "brewery": "Bauman's Cider",
+      "name": "Bauman's Cider - Guava Grapefruit",
+      "style": "Guava Grapefruit Cider",
+      "short_description": "Guava Grapefruit w/ Pink Peppercorns",
+      "abv": "6.2",
+      "price": {
+        "400mL": 7,
+        "200mL": 4,
+        "5oz": 2.5,
+        "64oz Growler": 18
+      }
+    },
+    "25": {
+      "brewery": "Swift Cider",
+      "name": "Swift Cider - Raz",
+      "style": "Raspberry Cider",
+      "short_description": "Raspberry Cider",
+      "abv": "6.1",
+      "price": {
+        "400mL": 7,
+        "200mL": 4,
+        "5oz": 2.5,
+        "64oz Growler": 22
+      }
+    },
+    "26": {
+      "brewery": "Happy Mountain",
+      "name": "Happy Mountain - Dragonfruit",
+      "style": "Kombucha",
+      "short_description": "Happy Mountain",
+      "abv": "0",
+      "price": {
+        "400mL": 5,
+        "200mL": 3,
+        "5oz": 2.5,
+        "64oz Growler": 22
+      }
+    },
+    "27": {
+      "brewery": "Crater Lake",
+      "name": "Crater Lake Root Beer",
+      "style": "Root Beer",
+      "short_description": "Crater Lake",
+      "abv": "0",
+      "price": {
+        "16oz": 4
+      }
+    }
+  }
+}
