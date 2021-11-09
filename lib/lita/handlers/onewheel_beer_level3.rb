@@ -67,8 +67,8 @@ module Lita
         reply += "#{datum[:name]} "
         reply += "- #{datum[:desc]}, "
         # reply += "Served in a #{datum[1]['glass']} glass.  "
-        reply += "#{get_display_prices datum[:prices]}, "
-        reply += "#{datum[:remaining]}"
+        # reply += "#{get_display_prices datum[:prices]}, "
+        # reply += "#{datum[:remaining]}"
 
         Lita.logger.info "send_response: Replying with #{reply}"
 
